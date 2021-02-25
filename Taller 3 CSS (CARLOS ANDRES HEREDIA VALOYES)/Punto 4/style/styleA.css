@@ -1,0 +1,71 @@
+#general{
+	margin:auto;
+	width:812px;
+	height:900px
+}
+#header{
+	border:solid 6px blue;
+	height:200px;
+	width:800px;
+	float:left;
+}
+#cajaimg{
+	height:200px;
+	width:200px;
+	float:left;
+}
+.logoheader{
+	width:180px;
+	height:180px;
+	margin-top:10px;
+	margin-right:10px;
+	margin-left:10px;
+	margin-bottom:10px;
+}
+.tituloH{
+	height:200px;
+	width:600px;
+	float:left;
+	margin-top:80px;
+}
+#pages{
+	border:solid 2px blue;
+	height:500px;
+	width:200px;
+	float:left;
+}
+#cajainformacion{
+	border:solid 2px blue;
+	height:500px;
+	width:400px;
+	float:left;
+}
+#infoindustrial{
+	border:solid 2px blue;
+	height:500px;
+	width:200px;
+	float:left;
+}
+#infocontacto{
+	border:solid 6px blue;
+	height:200px;
+	width:800px;
+	float:left;
+}
+.pictures{
+	width:300px;
+	height:250px;
+}
+h1{
+	text-align:center;
+}
+#infoimg{
+	margin:auto;
+	margin-left:50px;
+}
+p{
+	margin-bottom:10px;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:10px;
+}

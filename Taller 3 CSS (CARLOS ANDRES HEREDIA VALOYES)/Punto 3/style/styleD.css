@@ -1,0 +1,41 @@
+#G{
+	width:500px;
+	height:600px;
+	margin:auto;
+}
+#R1{
+	background-color:red;
+	width:20px;
+	height:600px;
+	float:left;
+}
+#B1{
+	background-color:blue;
+	width:20px;
+	height:600px;
+	float:left;
+}
+#Y1{
+	background-color:yellow;
+	width:50px;
+	height:600px;
+	float:left;
+}
+#R2{
+	background-color:red;
+	width:100px;
+	height:600px;
+	float:left;
+}
+#B2{
+	background-color:blue;
+	width:110px;
+	height:600px;
+	float:left;
+}
+#Y2{
+	background-color:yellow;
+	width:200px;
+	height:600px;
+	float:left;
+}
